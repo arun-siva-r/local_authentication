@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(flutter_app_authentication LANGUAGES CXX)
+project(flutter_app_local_auth LANGUAGES CXX)
 
-set(BINARY_NAME "flutter_app_authentication")
+set(BINARY_NAME "flutter_app_local_auth")
 
 cmake_policy(SET CMP0063 NEW)
 
